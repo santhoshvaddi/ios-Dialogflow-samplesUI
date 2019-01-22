@@ -58,7 +58,7 @@ class DialogFlowViewController: UIViewController {
         self.view.tintColor = .black
         self.view.backgroundColor = ApplicationScheme.shared.colorScheme
             .surfaceColor
-        self.title = "Dialog Flow"
+        self.title = "Dialogflow"
         setUpNavigationBarAndItems()
         optionsCard.cornerRadius = optionsCard.frame.height/2
         self.view.addSubview(intentTextField)
