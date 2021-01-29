@@ -1,1 +1,1 @@
-# ios-docs-samplesUI HOORAY
+# ios-docs-samplesUI
